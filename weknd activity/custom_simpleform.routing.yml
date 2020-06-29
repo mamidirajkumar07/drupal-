@@ -1,0 +1,12 @@
+{
+  "custom_simpleform_creation": {
+    "path": "/custom_simpleform/", 
+    "requirements": {
+      "_permission": "access content"
+    }, 
+    "defaults": {
+      "_form": "\\Drupal\\customregister\\Form\\", 
+      "_title": "simpleform"
+    }
+  }
+}
